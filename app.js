@@ -1,0 +1,1 @@
+let myBox = document.getElementById('calculator');
